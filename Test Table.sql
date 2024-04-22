@@ -9,7 +9,7 @@ VALUES (1, 'Will Wang', 37, true, '2024-04-22', 99, 999);
 
 -- COMMAND ----------
 
-select * from sample_table
+select * from sample_table;
 
 -- COMMAND ----------
 

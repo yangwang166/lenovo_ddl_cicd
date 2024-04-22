@@ -27,4 +27,4 @@ CREATE TABLE IF NOT EXISTS sample_table (
 
 -- COMMAND ----------
 
-
+--Change DDL

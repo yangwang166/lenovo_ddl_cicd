@@ -13,4 +13,8 @@ select * from sample_table;
 
 -- COMMAND ----------
 
+drop table sample_table;
+
+-- COMMAND ----------
+
 
